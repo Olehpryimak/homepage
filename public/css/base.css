@@ -500,7 +500,7 @@ article {
 
 /* Avatar */
 .avatar-wrapper {
-    padding: 0 1em;
+    padding: 4em 1em;
     display: flex;
     align-items: center;
     justify-content: center;
